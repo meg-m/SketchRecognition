@@ -7,6 +7,6 @@ The different formats for dataset and other info can be found here: https://gith
 
 The dataset used for this project is from- https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap
 
-15 categories of images have been picked to train the model. You can add more categories, and update train.py to reflect num_classes accordingly.
+15 categories of images have been picked to train the model. You can add more categories instead. For this modify train.py to update num_classes accordingly.
 
 
